@@ -15,7 +15,8 @@ How to run the script:
 Since this is a .py script, you have to run the script in your terminal (e.g. Anaconda prompt). First, you save this python script on your computer. Then you open your terminal and use 'cd' to change the directory into the same folder as the location where you saved this python script. Next, you type 'python nPMI_feature_extraction.py' and click enter, and the script should run automatically, given that there is no error. When you see 'file exported' on the terminal, it means the output file has been saved to the directory you gave in line 80.
 
 Citation:
-Please cite this script along with our article: Sung, H. W. M., & Prokić, J. (2024). Detecting Dialect Features Using Normalised Pointwise Information. Computational Linguistics in the Netherlands Journal, 13, 121–145. Retrieved from https://www.clinjournal.org/clinj/article/view/177
+Please cite this script along with our article: 
+Sung, H. W. M., & Prokić, J. (2024). Detecting Dialect Features Using Normalised Pointwise Information. Computational Linguistics in the Netherlands Journal, 13, 121–145. Retrieved from https://www.clinjournal.org/clinj/article/view/177
 
 Contact:
 If you have any questions, please don't hesitate to get in touch with me through h.w.m.sung[at]hum.leidenuniv[dot]nl.
