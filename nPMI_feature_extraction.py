@@ -1,3 +1,9 @@
+# script written by Matthew Sung
+# supplementary code to Sung, H. W. M., & Prokić, J. (2024). 
+# Detecting Dialect Features Using Normalised Pointwise Information. 
+# Computational Linguistics in the Netherlands Journal, 13, 121–145. 
+# Retrieved from https://www.clinjournal.org/clinj/article/view/177
+
 import pandas as pd
 import numpy as np
 
@@ -44,6 +50,7 @@ def PMI(feat, group):
                 PMI_score = round(np.log2(calc), 3)
                 # representativeness of dialects within the group which has the feature; with_feat_in_group/total_in_group
                 prop = round(int(df_co.iloc[j,i])/grp[df_co.columns[i]], 3)
+                # script written by Matthew Sung
                 # exclusivity of the feature; no_dialects_with_feature/all_dialects_with_feature_in_data
                 excl = round(int(df_co.iloc[j,i])/feat[df_co.index[j]],3)
 
