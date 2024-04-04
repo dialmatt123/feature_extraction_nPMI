@@ -12,7 +12,7 @@ Categorical data in the 'Gabmap' format, i.e. in a location x features tableau. 
 
 ## Before running the script:
 
-Make sure you have added the directory of your input file (line 5) and your output file (line 80). In addition, you also need to specify the number of dialect classification schemes you have in your data in line 20.
+Make sure you have added the directory of your input file (line 11) and your output file (line 87). In addition, you also need to specify the number of dialect classification schemes you have in your data in line 20.
 
 ## How to run the script:
 
