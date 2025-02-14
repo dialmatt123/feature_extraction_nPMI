@@ -1,6 +1,6 @@
 # Feature extraction using nPMI
 
-This python script is designed to extract exclusive dialect features of a given dialect area.
+This python script is designed to extract exclusive dialect features of a given dialect area. This script was written using Python version 3.9.
 
 ## Preparation of the data:
 
