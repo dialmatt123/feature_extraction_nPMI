@@ -16,7 +16,7 @@ Make sure you have added the directory of your input file (line 11) and your out
 
 ## How to run the script:
 
-Since this is a .py script, you have to run the script in your terminal (e.g. Anaconda prompt). First, you save this python script on your computer. Then you open your terminal and use 'cd' to change the directory into the same folder as the location where you saved this python script. Next, you type 'python nPMI_feature_extraction.py' and click enter. Next, you will be asked which classification scheme to use for the feature extaction with 'Enter classification:', and you are required to put the exact same name of the column of the classification scheme of interest, and then you click enter. The script should then run automatically, given that there is no error in the previous procedures. When you see 'file exported' on the terminal, it means the output file has been saved to the directory you gave in line 80.
+Since this is a .py script, you have to run the script in your terminal (e.g. Anaconda prompt). First, you save this python script on your computer. Then you open your terminal and use 'cd' to change the directory into the same folder as the location where you saved this python script. Next, you type 'python nPMI_feature_extraction.py' and click enter. Next, you will be asked which classification scheme to use for the feature extaction with 'Enter classification:', and you are required to put the exact same name of the column of the classification scheme of interest, and then you click enter. The script should then run automatically, given that there is no error in the previous procedures. When you see 'file exported' on the terminal, it means the output file has been saved to the directory you gave in line 87.
 
 ## Citation:
 
